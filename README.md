@@ -1,4 +1,4 @@
-![Mi foto](img/unnamed(6).png)
+![Mi foto](img/foto.jpg)
 
     
 ## Welcome to my world <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
