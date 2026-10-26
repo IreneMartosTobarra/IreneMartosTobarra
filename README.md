@@ -1,164 +1,139 @@
+
 <div align="center">
 
-#  Hola, soy Irene Martos Tobarra
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:020617,50:0F172A,100:164E63&text=IRENE%20MARTOS&fontColor=67E8F9&fontSize=55&fontAlignY=42&desc=CYBERSECURITY%20%2F%20BLUE%20TEAM%20%2F%20SOC&descSize=15&descAlignY=62&animation=fadeIn" />
 
-###  Blue Team Analyst | SOC | Cybersecurity
+<a href="https://github.com/IreneMartosTobarra">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=3000&pause=900&color=67E8F9&center=true&vCenter=true&width=600&lines=Defensive+Security+%7C+Network+Analysis;Learning+Python+through+hands-on+projects;Building+my+path+into+Cybersecurity" alt="Animated introduction" />
+</a>
 
- <strong>ISC2 Certified in Cybersecurity (CC)</strong>
+<br>
 
-<p>
-  <strong>Defensive Security</strong> ·
-  <strong>Threat Detection</strong> ·
-  <strong>Network Forensics</strong> ·
-  <strong>Incident Response</strong>
-</p>
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-0D1117?style=flat-square&logo=github)](https://github.com/IreneMartosTobarra)
+[![ISC2](https://img.shields.io/badge/ISC2-CC%20Certified-164E63?style=flat-square)](https://www.isc2.org/)
+[![Python](https://img.shields.io/badge/Python-Learning-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.freecodecamp.org/learn/python-v9/)
 
 </div>
 
 ---
 
-##  Sobre mí
+## `whoami`
 
-Soy una profesional en transición hacia el ámbito de la **Ciberseguridad**, orientada principalmente a **Blue Team y SOC**.
+I'm an aspiring cybersecurity professional with a background in software development, interested in defensive security, network analysis and security operations.
 
-Mi formación combina **Desarrollo de Aplicaciones Web** y **Ciberseguridad**, y actualmente estoy desarrollando mis conocimientos mediante laboratorios prácticos, investigaciones de seguridad y proyectos técnicos.
+My focus is on learning by doing: investigating network traffic, documenting findings and developing practical programming skills.
 
-Mi objetivo es comenzar mi trayectoria profesional en el ámbito de la **Ciberseguridad defensiva**, especialmente como **SOC Analyst / Junior Blue Team Analyst**.
+**Current target:** Junior SOC Analyst / Blue Team opportunities.
 
 ---
 
+## `01` / SECURITY LAB
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🔎 PsExec Investigation
+
+**Network Forensics**
+
+Investigating network evidence associated with potential lateral movement using PsExec.
+
+`Wireshark` `SMB/SMB2` `NTLM`
+
+[VIEW INVESTIGATION ↗](https://github.com/IreneMartosTobarra/cybersecurity-portfolio/tree/main/network-forensics/psexec-lateral-movement)
+
+</td>
+<td width="50%" valign="top">
+
+### 🌐 Network Lab
+
+**Network Analysis**
+
+A practical lab exploring traffic capture, network protocols and port scanning in a local environment.
+
+`Networking` `Traffic Capture` `Nmap`
+
+[VIEW LAB ↗](https://github.com/IreneMartosTobarra/lab_intro_lan)
+
+</td>
+</tr>
+</table>
+
 <div align="center">
 
-##  Certificaciones y formación
-
-|  Certificación / Formación                         |                   |
-| ---------------------------------------------------- | ----------------- |
-|  **ISC2 Certified in Cybersecurity (CC)**          |  Certificada     |
-|  **Google Cybersecurity Professional Certificate** |  Completado      |
-|  **Desarrollo de Aplicaciones Web (DAW)**          |  Completado      |
-|  **CompTIA Security+**                             |  En preparación |
+*More investigations and practical projects coming soon.*
 
 </div>
 
 ---
 
-##  Áreas de interés
+## `02` / TOOLKIT
 
-<p align="center">
-  <strong> Blue Team</strong> &nbsp; • &nbsp;
-  <strong> SOC</strong> &nbsp; • &nbsp;
-  <strong> Network Forensics</strong> &nbsp; • &nbsp;
-  <strong> Incident Response</strong>
-</p>
+<div align="center">
 
-<p align="center">
-  <strong> Threat Detection</strong> &nbsp; • &nbsp;
-  <strong> Log Analysis</strong> &nbsp; • &nbsp;
-  <strong> Network Security</strong>
-</p>
+<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark" />
+<img src="https://img.shields.io/badge/Nmap-214478?style=for-the-badge&logoColor=white" alt="Nmap" />
+<img src="https://img.shields.io/badge/Python-Learning-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+<img src="https://img.shields.io/badge/Linux-Systems-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+<img src="https://img.shields.io/badge/Git-Version_Control-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+
+</div>
 
 ---
 
-##  Tecnologías y herramientas
+## `03` / CERTIFICATIONS & LEARNING
 
-###  Cybersecurity
-
-<p>
-  <code>Wireshark</code>
-  <code>Splunk</code>
-  <code>Wazuh</code>
-  <code>TryHackMe</code>
-  <code>CyberDefenders</code>
-</p>
-
-###  Sistemas
-
-<p>
-  <code>Linux</code>
-  <code>Windows</code>
-</p>
-
-###  Programación y bases de datos
-
-<p>
-  <code>Python</code>
-  <code>SQL</code>
-  <code>PHP</code>
-  <code>HTML</code>
-  <code>CSS</code>
-  <code>MySQL</code>
-</p>
-
-###  Herramientas
-
-<p>
-  <code>Git</code>
-  <code>GitHub</code>
-  <code>Visual Studio Code</code>
-</p>
+| Program | Status |
+|:--|:--|
+| ISC2 Certified in Cybersecurity (CC) | ✓ Certified |
+| Google Cybersecurity Professional Certificate | ✓ Completed |
+| Play It Safe: Manage Security Risks — Google | ✓ Completed |
+| CompTIA Security+ | In progress |
+| Python Certification — freeCodeCamp | In progress |
 
 ---
 
-#  Proyectos destacados
+## `04` / BEYOND THE KEYBOARD
 
-###  PsExec — Investigación de movimiento lateral
+Not everything I've learned comes from technology.
 
-Investigación de tráfico de red centrada en la identificación de evidencias relacionadas con **movimiento lateral mediante PsExec**.
+🎓 **A different academic background**
 
-**Herramientas:** Wireshark · SMB/SMB2 · NTLM
+Before focusing on cybersecurity, I studied Primary Education, specialising in Physical Education. It helped me develop communication, organisation and problem-solving skills.
 
-**MITRE ATT&CK:**
+🌍 **One year abroad**
 
-* T1021.002 — SMB/Windows Admin Shares
-* T1569.002 — System Services: Service Execution
+I spent a year working in Ireland, gaining international professional experience and adapting to a different working environment.
 
- <a href="https://github.com/IreneMartosTobarra/cybersecurity-portfolio/tree/main/network-forensics/psexec-lateral-movement"><strong>Ver investigación →</strong></a>
+💻 **Where I am now**
 
----
-
-###  Laboratorio de captura de tráfico y escaneo de puertos
-
-Laboratorio práctico centrado en la **captura y análisis de tráfico de red y el escaneo de puertos en un entorno local**.
-
- <a href="https://github.com/IreneMartosTobarra/lab_intro_lan"><strong>Ver laboratorio →</strong></a>
+I've completed Web Application Development (DAW) and I'm currently studying Multiplatform Application Development (DAM), while building my cybersecurity portfolio.
 
 ---
 
-##  Objetivo profesional
+## `05` / CURRENT MISSION
 
-Actualmente estoy construyendo un portfolio práctico enfocado en **Ciberseguridad defensiva**, documentando investigaciones y laboratorios para desarrollar habilidades aplicables a entornos reales de seguridad.
-
-### Busco oportunidades como:
-
-<p align="center">
-   <strong>SOC Analyst</strong>
-  &nbsp; • &nbsp;
-   <strong>Junior Blue Team Analyst</strong>
-  &nbsp; • &nbsp;
-   <strong>Cybersecurity Analyst</strong>
-</p>
+- [ ] Build practical Python projects for security analysis.
+- [ ] Develop log analysis and incident investigation skills.
+- [ ] Continue preparing for CompTIA Security+.
+- [ ] Document reproducible labs with evidence and conclusions.
 
 ---
 
-##  Actualmente aprendiendo
+<div align="center">
 
-*  Análisis de tráfico de red
-*  Blue Team
-*  SOC Operations
-*  SIEM & Log Analysis
-*  Incident Response
-*  Python aplicado a Ciberseguridad
-*  CompTIA Security+
+### LET'S CONNECT
 
----
+<a href="mailto:irenemoba1996@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact%20me-0F766E?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
+<a href="https://github.com/IreneMartosTobarra">
+  <img src="https://img.shields.io/badge/GitHub-Follow%20my%20work-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
 
-##  Contacto
+<br><br>
 
-<p align="center">
+<sub>Learning continuously. Investigating carefully. Building securely.</sub>
 
- <strong>[irenemoba1996@gmail.com](mailto:irenemoba1996@gmail.com)</strong>
-
- <a href="https://github.com/IreneMartosTobarra"><strong>GitHub</strong></a>
-
-</p>
-
+</div>
