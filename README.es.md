@@ -231,5 +231,15 @@ Prácticas orientadas a comprender el tráfico de red, identificar protocolos, u
 
 <sub>APRENDER · INVESTIGAR · ANALIZAR · MEJORAR</sub>
 
+html
+<div align="center">
+
+<a href="README.md">
+  <img src="https://img.shields.io/badge/🇬🇧%20VIEW%20IN%20ENGLISH-164E63?style=for-the-badge&logoColor=white" alt="Ver en inglés" />
+</a>
+
+</div>
+
+
 </div>
 
