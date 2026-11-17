@@ -1,4 +1,3 @@
-```html
 <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=240&color=0:020617,45:0B1F35,100:164E63&text=IRENE%20MARTOS&fontColor=67E8F9&fontSize=58&fontAlignY=40&desc=CYBERSECURITY%20%2F%20BLUE%20TEAM%20%2F%20SOC%20ANALYST&descSize=14&descAlignY=61&animation=fadeIn" />
@@ -233,4 +232,4 @@ Prácticas orientadas a comprender el tráfico de red, identificar protocolos, u
 <sub>APRENDER · INVESTIGAR · ANALIZAR · MEJORAR</sub>
 
 </div>
-```
+
