@@ -1,3 +1,10 @@
+
+<div align="right">
+  <a href="README.md">
+    <img src="https://img.shields.io/badge/🇬🇧%20ENGLISH-164E63?style=for-the-badge&logoColor=white" alt="View in English" />
+  </a>
+</div>
+
 <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=240&color=0:020617,45:0B1F35,100:164E63&text=IRENE%20MARTOS&fontColor=67E8F9&fontSize=58&fontAlignY=40&desc=CYBERSECURITY%20%2F%20BLUE%20TEAM%20%2F%20SOC%20ANALYST&descSize=14&descAlignY=61&animation=fadeIn" />
