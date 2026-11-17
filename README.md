@@ -136,4 +136,14 @@ I've completed Web Application Development (DAW) and I'm currently studying Mult
 
 <sub>Learning continuously. Investigating carefully. Building securely.</sub>
 
+html
+<div align="center">
+
+<a href="README.es.md">
+  <img src="https://img.shields.io/badge/🇪🇸%20VER%20EN%20ESPAÑOL-164E63?style=for-the-badge&logoColor=white" alt="Ver en español" />
+</a>
+
+</div>
+
+
 </div>
